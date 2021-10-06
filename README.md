@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/_faris404/">
+<a href="https://www.instagram.com/fasi.l.eo/">
     <img src="https://img.shields.io/badge/Instagram-%238a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white"  />
 </a>
 <a href="https://stackoverflow.com/users/14533334/fasil-k">
@@ -27,7 +27,7 @@
 </div>
 
 ### Stats :hourglass_flowing_sand:
-[![Muhammed Faris's github stats](https://github-readme-stats.vercel.app/api?username=faris404&count_private=true&theme=gotham&showicons=true)](https://github.com/faris404/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=faris404&count_private=true&theme=gotham&showicons=true)](https://github.com/Fasil005/github-readme-stats)
 
 
 
