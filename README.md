@@ -29,7 +29,9 @@
 ### Stats :hourglass_flowing_sand:
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Fasil005&count_private=true&theme=gotham&showicons=true)](https://github.com/Fasil005/github-readme-stats)
 
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 
 
 
