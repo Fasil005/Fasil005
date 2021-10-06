@@ -5,7 +5,7 @@
 - 🔭 I’m currently working at Xanthon E-Solutions
 - 🌱 I’m currently learning Django and new Python stuffs
 - 👯 I’m looking to collaborate on open source project          
-- 💬 Ask me about Python, SQLAlchemy,Flask RESTful and about Messi!!
+- 💬 Ask me about Python, SQLAlchemy, Flask RESTful and about Messi!!
 - ⚡ Fun fact: Coding Coffee Football
 
 
