@@ -2,11 +2,11 @@
 
 <img align="right" src="coding.gif" width="35%" >
 
-- 🔭 I’m currently working at xanthon e-solutions
-- 🌱 I’m currently learning fastapi and new python stuff
+- 🔭 I’m currently working at Xanthon E-Solutions
+- 🌱 I’m currently learning Django and new python stuff
 - 👯 I’m looking to collaborate on open source project          
-- 💬 Ask me about python, javascript, mysql and chess :joy:
-- ⚡ Fun fact: Coding Coffee Chess
+- 💬 Ask me about Python, SQLAlchemy,Flask RESTful and about Messi!!
+- ⚡ Fun fact: Coding Coffee Football
 
 
 
