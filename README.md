@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://i.gifer.com/JXA0.gif" width="35%" >
+<img align="right" src="JXA0.gif" width="35%" >
 
 - 🔭 I’m currently working at Xanthon E-Solutions
 - 🌱 I’m currently learning Django and new Python stuffs
