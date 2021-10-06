@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/l4JyQqyt9S1WTiE6c" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cyberwar-viceland-l4JyQqyt9S1WTiE6c">via GIPHY</a></p>
+<img align="right" src="https://i.gifer.com/1FaJ.gif" width="35%" >
 
 - 🔭 I’m currently working at Xanthon E-Solutions
 - 🌱 I’m currently learning Django and new Python stuffs
