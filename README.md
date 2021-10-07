@@ -30,7 +30,11 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Fasil005&count_private=true&theme=synthwave&showicons=true)](https://github.com/Fasil005/github-readme-stats)
 
 <!--START_SECTION:waka-->
-
+```text
+Python       1 hr 55 mins    ███████████████████████░░   92.61 % 
+Text         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Git Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+```
 <!--END_SECTION:waka-->
 
 
