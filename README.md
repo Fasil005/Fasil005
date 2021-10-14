@@ -29,7 +29,7 @@
 ### Stats :hourglass_flowing_sand:
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Fasil005&count_private=true&theme=synthwave&showicons=true)](https://github.com/Fasil005/github-readme-stats)
 
-My Weekly Workflow
+### My Weekly Workflow
 
 <!--START_SECTION:waka-->
 ```text
