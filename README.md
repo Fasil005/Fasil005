@@ -11,7 +11,7 @@
 
 
     
-### Let's Connect :speech_balloon:
+### Connect Me :speech_balloon:
 <div style="text-align:center;" >
 
 <a href="https://www.linkedin.com/in/fasil-k/" >
