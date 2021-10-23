@@ -29,7 +29,7 @@
 ### Stats :hourglass_flowing_sand:
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Fasil005&count_private=true&theme=synthwave&showicons=true)](https://github.com/Fasil005/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasil005&count_private=true&theme=dark)](https://github.com/fasil005/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasil005&count_private=true&theme=synthwave)](https://github.com/fasil005/github-readme-stats)
 
 
 ### My Weekly Workflow
