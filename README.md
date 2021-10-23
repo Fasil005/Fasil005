@@ -32,7 +32,7 @@
 
 ### My Weekly Workflow
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasil005&count_private=true&theme=synthwave)](https://github.com/fasil005/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasil005&count_private=true&theme=radical)](https://github.com/fasil005/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ```text
