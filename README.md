@@ -34,6 +34,8 @@
 
 ### My Weekly Workflow
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasil005&count_private=true&theme=synthwave)](https://github.com/fasil005/github-readme-stats)
+
 <!--START_SECTION:waka-->
 ```text
 Python   4 hrs 46 mins   █████████████████████░░░░   84.61 % 
