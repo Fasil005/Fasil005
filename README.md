@@ -27,7 +27,7 @@
 </div>
 
 ### Stats :hourglass_flowing_sand:
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Fasil005&count_private=true&theme=synthwave&showicons=true)](https://github.com/Fasil005/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Fasil005&count_private=true&theme=gotham&showicons=true)](https://github.com/Fasil005/github-readme-stats)
 
 
 ### My Weekly Workflow
