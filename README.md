@@ -36,11 +36,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other            22 hrs 43 mins  ██████████████▒░░░░░░░░░░   57.27 % 
-Python           10 hrs 35 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.68 % 
-TypeScript       3 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-HTML             1 hr 53 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-GitIgnore file   34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Other            20 hrs 25 mins  █████████████▓░░░░░░░░░░░   54.24 % 
+Python           13 hrs 21 mins  █████████░░░░░░░░░░░░░░░░   35.49 % 
+TypeScript       1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+HTML             1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+GitIgnore file   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 <!--END_SECTION:waka-->
 
