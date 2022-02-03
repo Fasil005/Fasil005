@@ -36,10 +36,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python           19 hrs 27 mins  ████████████████████████▒   96.68 % 
-textmate         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-GitIgnore file   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-HTML             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Python           21 hrs 5 mins   ███████████████████████▓░   95.14 % 
+textmate         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+GitIgnore file   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+HTML             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 <!--END_SECTION:waka-->
 
