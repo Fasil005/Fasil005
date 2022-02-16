@@ -36,13 +36,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 18 hrs 34 mins
+Total: 15 hrs 42 mins
 
-Python           15 hrs 27 mins  ████████████████████▓░░░░   83.22 % 
-JSON             2 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-HTML             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-GitIgnore file   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-textmate         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Python     13 hrs 54 mins  ██████████████████████░░░   88.47 % 
+JSON       1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+HTML       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+textmate   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 <!--END_SECTION:waka-->
 
