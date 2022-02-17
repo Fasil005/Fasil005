@@ -36,12 +36,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 15 hrs 42 mins
+Total: 11 hrs 56 mins
 
-Python     13 hrs 54 mins  ██████████████████████░░░   88.47 % 
-JSON       1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-HTML       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-textmate   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Python     10 hrs 41 mins  ██████████████████████▒░░   89.52 % 
+JSON       56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+HTML       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+textmate   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 <!--END_SECTION:waka-->
 
