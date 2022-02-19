@@ -36,13 +36,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 12 hrs 33 mins
+Total: 16 hrs 51 mins
 
-Python             11 hrs 4 mins   ██████████████████████░░░   88.17 % 
-HTML               44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-textmate           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-JSON               14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-requirements.txt   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Python             14 hrs 2 mins   ████████████████████▓░░░░   83.23 % 
+JSON               1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+HTML               44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+requirements.txt   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+GitIgnore file     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 <!--END_SECTION:waka-->
 
