@@ -36,8 +36,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 16 hrs 51 mins
-
 Python             14 hrs 2 mins   ████████████████████▓░░░░   83.23 % 
 JSON               1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
 HTML               44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
