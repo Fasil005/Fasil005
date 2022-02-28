@@ -35,13 +35,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasil005&count_private=true&theme=radical)](https://github.com/fasil005/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
 ```text
-Python       18 hrs 8 mins   █████████████████████▓░░░   86.79 % 
-JSON         2 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Text         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-TypeScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-HTML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Python       18 hrs 8 mins   █████████████████████▓░░░   86.79 %
+JSON         2 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
+Text         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+TypeScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+HTML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 
