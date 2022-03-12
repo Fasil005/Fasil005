@@ -2,7 +2,7 @@
 
 <img align="right" src="JXA0.gif" width="35%" >
 
-- 🔭 I’m currently working at Founding Minds
+- 🔭 I’m currently working at Xanthron E-Solutions
 - 🌱 I’m currently learning Django and new Python stuffs
 - 👯 I’m looking to collaborate on open source project          
 - 💬 Ask me about Python, SQLAlchemy, Flask RESTful and about Messi!!
