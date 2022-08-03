@@ -2,11 +2,11 @@
 
 <img align="right" src="JXA0.gif" width="35%" >
 
-- 🔭 I’m currently working at Xanthron E-Solutions
-- 🌱 I’m currently learning Django and new Python stuffs
+- 🔭 I’m currently working at Sparksupport Infotech
+- 🌱 I’m currently learning FastAPI and new Python stuffs
 - 👯 I’m looking to collaborate on open source project          
-- 💬 Ask me about Python, SQLAlchemy, Flask RESTful and about Messi!!
-- ⚡ Fun fact: Coding Coffee Football
+- 💬 Ask me about Python, SQLAlchemy, Flask RESTful, Django and about Messi!!
+- ⚡ Fun fact: Coding Coding Coding Coffee Football
 
 
 
