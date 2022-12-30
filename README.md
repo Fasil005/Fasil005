@@ -39,12 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML         56 mins         █████████████▒░░░░░░░░░░░   53.33 %
-Python       21 mins         █████░░░░░░░░░░░░░░░░░░░░   20.11 %
-CSS          12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
-TypeScript   12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-Git Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
